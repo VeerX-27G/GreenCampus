@@ -1,4 +1,4 @@
-# GreenCampus 🌱
+# GreenCampus Challenge🌱
 
 A Streamlit dashboard that visualizes (mock) energy usage data for university dorms and ranks them on a leaderboard based on who's reducing their usage the most — turning sustainability into a friendly competition.
 
