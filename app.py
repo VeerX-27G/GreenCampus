@@ -29,7 +29,6 @@ recent_window = st.sidebar.slider(
 )
 
 st.sidebar.divider()
-st.sidebar.caption("Built for [UR Hacks] 🚀")
 
 st.title("GreenCampus Challenge 🌱")
 st.caption("Tracking dorm energy usage and rewarding reduction")
